@@ -1,0 +1,11 @@
+Vipera Firewall v1.0.0
+
+Algorithm: SHA-256
+
+Installer
+---------
+b76448c9898416a420582f10a26f91fa7190a6b55d46efb2a03a686d01cdc65d  AegisFirewall_Setup_v1.0.0.exe
+
+Portable
+---------
+972ffd9fb35c9c71c5f9e364440e834073951841d701b9420184c65aae760e65  Aegis Firewall v1.0.0.zip

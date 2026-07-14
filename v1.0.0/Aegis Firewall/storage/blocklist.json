@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "enabled": true,
+  "entries": [
+    {
+      "id": 1,
+      "entry_type": "Ip",
+      "value": "2001:4860:4827:7700::",
+      "enabled": true,
+      "created": "2026-07-12T04:32:53.340887600+00:00",
+      "updated": "2026-07-12T04:32:53.340887600+00:00",
+      "note": "UDP Flood",
+      "source": "Auto Detection"
+    },
+    {
+      "id": 2,
+      "entry_type": "Ip",
+      "value": "192.168.1.35",
+      "enabled": true,
+      "created": "2026-07-12T04:33:23.232707200+00:00",
+      "updated": "2026-07-12T04:33:23.232707200+00:00",
+      "note": "Packet Flood",
+      "source": "Auto Detection"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+[
+  {
+    "connection_id": 8,
+    "protocol": {
+      "Other": 0
+    },
+    "local_ip": "ff02::c",
+    "local_port": 0,
+    "remote_ip": "fe80::3e27:23c3:c36:d175",
+    "remote_port": 0,
+    "state": "New",
+    "up": {
+      "packets": 0,
+      "bytes": 0
+    },
+    "down": {
+      "packets": 1,
+      "bytes": 72
+    },
+    "first_seen": "12:13:25",
+    "last_seen": "12:13:25",
+    "closed": null,
+    "process_metadata": null,
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": null
+  },
+  {
+    "connection_id": 11,
+    "protocol": "Igmp",
+    "local_ip": "192.168.1.33",
+    "local_port": 0,
+    "remote_ip": "224.0.0.22",
+    "remote_port": 0,
+    "state": "New",
+    "up": {
+      "packets": 1,
+      "bytes": 40
+    },
+    "down": {
+      "packets": 0,
+      "bytes": 0
+    },
+    "first_seen": "12:13:28",
+    "last_seen": "12:13:28",
+    "closed": null,
+    "process_metadata": null,
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": null
+  },
+  {
+    "connection_id": 5,
+    "protocol": "Tcp",
+    "local_ip": "192.168.1.33",
+    "local_port": 57232,
+    "remote_ip": "104.21.94.171",
+    "remote_port": 443,
+    "state": "Established",
+    "up": {
+      "packets": 2,
+      "bytes": 128
+    },
+    "down": {
+      "packets": 3,
+      "bytes": 164
+    },
+    "first_seen": "12:13:24",
+    "last_seen": "12:13:24",
+    "closed": null,
+    "process_metadata": {
+      "pid": 6036,
+      "executable_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "executable_name": "chrome.exe",
+      "company_name": "Googl",
+      "product_name": "Google ",
+      "product_version": "150.0.7",
+      "description": "Google ",
+      "is_signed": true,
+      "icon_path": null,
+      "cached_at": "12:13:21"
+    },
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": null
+  },
+  {
+    "connection_id": 3,
+    "protocol": "Tcp",
+    "local_ip": "2001:4490:44f1:5187:a9e6:2e72:15e1:3884",
+    "local_port": 62686,
+    "remote_ip": "2600:140f:4:187::356e",
+    "remote_port": 80,
+    "state": "Established",
+    "up": {
+      "packets": 16,
+      "bytes": 1247
+    },
+    "down": {
+      "packets": 13,
+      "bytes": 9888
+    },
+    "first_seen": "12:13:22",
+    "last_seen": "12:13:29",
+    "closed": null,
+    "process_metadata": null,
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": null
+  },
+  {
+    "connection_id": 4,
+    "protocol": "Tcp",
+    "local_ip": "192.168.1.33",
+    "local_port": 61954,
+    "remote_ip": "172.65.90.21",
+    "remote_port": 443,
+    "state": "Established",
+    "up": {
+      "packets": 2,
+      "bytes": 80
+    },
+    "down": {
+      "packets": 1,
+      "bytes": 40
+    },
+    "first_seen": "12:13:22",
+    "last_seen": "12:13:22",
+    "closed": null,
+    "process_metadata": null,
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": null
+  },
+  {
+    "connection_id": 1,
+    "protocol": "Udp",
+    "local_ip": "192.168.1.33",
+    "local_port": 63526,
+    "remote_ip": "218.248.114.65",
+    "remote_port": 53,
+    "state": "New",
+    "up": {
+      "packets": 1,
+      "bytes": 63
+    },
+    "down": {
+      "packets": 2,
+      "bytes": 326
+    },
+    "first_seen": "12:13:21",
+    "last_seen": "12:13:22",
+    "closed": null,
+    "process_metadata": null,
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": "www.microsoft.com"
+  },
+  {
+    "connection_id": 2,
+    "protocol": "Udp",
+    "local_ip": "192.168.1.33",
+    "local_port": 51712,
+    "remote_ip": "218.248.114.65",
+    "remote_port": 53,
+    "state": "New",
+    "up": {
+      "packets": 1,
+      "bytes": 63
+    },
+    "down": {
+      "packets": 2,
+      "bytes": 574
+    },
+    "first_seen": "12:13:21",
+    "last_seen": "12:13:22",
+    "closed": null,
+    "process_metadata": null,
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": "www.microsoft.com"
+  },
+  {
+    "connection_id": 7,
+    "protocol": {
+      "Other": 0
+    },
+    "local_ip": "ff02::fb",
+    "local_port": 0,
+    "remote_ip": "fe80::3e27:23c3:c36:d175",
+    "remote_port": 0,
+    "state": "New",
+    "up": {
+      "packets": 0,
+      "bytes": 0
+    },
+    "down": {
+      "packets": 1,
+      "bytes": 72
+    },
+    "first_seen": "12:13:25",
+    "last_seen": "12:13:25",
+    "closed": null,
+    "process_metadata": null,
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": null
+  },
+  {
+    "connection_id": 9,
+    "protocol": "Igmp",
+    "local_ip": "224.0.0.1",
+    "local_port": 0,
+    "remote_ip": "192.168.1.1",
+    "remote_port": 0,
+    "state": "New",
+    "up": {
+      "packets": 0,
+      "bytes": 0
+    },
+    "down": {
+      "packets": 1,
+      "bytes": 36
+    },
+    "first_seen": "12:13:26",
+    "last_seen": "12:13:26",
+    "closed": null,
+    "process_metadata": null,
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": null
+  },
+  {
+    "connection_id": 10,
+    "protocol": "Tcp",
+    "local_ip": "192.168.1.33",
+    "local_port": 54907,
+    "remote_ip": "96.17.150.179",
+    "remote_port": 443,
+    "state": "Established",
+    "up": {
+      "packets": 1,
+      "bytes": 41
+    },
+    "down": {
+      "packets": 2,
+      "bytes": 104
+    },
+    "first_seen": "12:13:27",
+    "last_seen": "12:13:27",
+    "closed": null,
+    "process_metadata": {
+      "pid": 6036,
+      "executable_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "executable_name": "chrome.exe",
+      "company_name": "Googl",
+      "product_name": "Google ",
+      "product_version": "150.0.7",
+      "description": "Google ",
+      "is_signed": true,
+      "icon_path": null,
+      "cached_at": "12:13:21"
+    },
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": null
+  },
+  {
+    "connection_id": 6,
+    "protocol": {
+      "Other": 0
+    },
+    "local_ip": "ff02::1:3",
+    "local_port": 0,
+    "remote_ip": "fe80::3e27:23c3:c36:d175",
+    "remote_port": 0,
+    "state": "New",
+    "up": {
+      "packets": 0,
+      "bytes": 0
+    },
+    "down": {
+      "packets": 1,
+      "bytes": 72
+    },
+    "first_seen": "12:13:25",
+    "last_seen": "12:13:25",
+    "closed": null,
+    "process_metadata": null,
+    "threat_score": 0,
+    "rule_match": null,
+    "dns_name": null
+  }
+]

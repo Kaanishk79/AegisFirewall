@@ -1,0 +1,11 @@
+{
+  "total_queries": 2,
+  "total_responses": 4,
+  "total_parsed": 6,
+  "total_parse_failures": 0,
+  "cache_hits": 0,
+  "cache_misses": 2,
+  "allowed_queries": 0,
+  "blocked_queries": 0,
+  "unknown_queries": 6
+}
